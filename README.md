@@ -1,3 +1,5 @@
+# Remove -main the folder should be named just rs_campfire
+
 Campfire Placement Script
 This script allows players to place a campfire in the world using a specific item. 
 Once placed, the campfire can be extinguished either by using a designated item or by executing a command, depending on the configuration settings.
